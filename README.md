@@ -11,7 +11,7 @@
 <p>
 ✅ Conhecer a sintaxe da Java<br>
 ✅ Java JDK 11<br>
-✅ IDE para desenvolvimento Java (usarei IntelliJ)<br>
+✅ IDE para desenvolvimento Java (usi netbeans)<br>
 ✅ Git<br>
 ✅ Conta no GitHub<br>
 </p>
@@ -134,19 +134,4 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 🔹 2.2 Paradigma Lógico: Prolog<br>
 </p>
 
-<h2> 🤝 Contribuindo </h2>
 
-<p>
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.<br>
-<br>
-Se possível:<br>
-⭐️  Star o projeto<br>
-🐛 Encontrar e relatar issues<br>
-</p>
-
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
