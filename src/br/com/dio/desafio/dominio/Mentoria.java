@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author programador2
+ * @author Marceli
  */
 public class Mentoria extends Conteudo {
 

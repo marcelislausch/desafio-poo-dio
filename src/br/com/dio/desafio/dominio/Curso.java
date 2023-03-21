@@ -7,7 +7,7 @@ package br.com.dio.desafio.dominio;
 
 /**
  *
- * @author programador2
+ * @author Marceli
  */
 public class Curso extends Conteudo{
     
